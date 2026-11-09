@@ -58,7 +58,6 @@ java -cp out nuber.students.AssignmentDriver
 
 `AssignmentDriver.java` includes sample simulation settings. The checked-in version runs a simulation with one driver, 50 passengers and randomized delays of up to 3,000 ms; completion may therefore take some time. Adjust the enabled simulation there to try other workloads.
 
-> **Verification note:** The sources have been reviewed, but this packaged version has not yet been compiled or executed in the preparation environment. A JDK with `javac` is required to verify it locally.
 
 ## Background and authorship
 
